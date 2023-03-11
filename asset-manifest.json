@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zimapay-dashboard-task/static/css/main.fa5d6538.css",
+    "main.js": "/zimapay-dashboard-task/static/js/main.4dba23b9.js",
+    "static/js/429.cdf3536d.chunk.js": "/zimapay-dashboard-task/static/js/429.cdf3536d.chunk.js",
+    "static/css/23.47768f97.chunk.css": "/zimapay-dashboard-task/static/css/23.47768f97.chunk.css",
+    "static/js/23.e81163bc.chunk.js": "/zimapay-dashboard-task/static/js/23.e81163bc.chunk.js",
+    "static/media/IRANSans(FaNum).ttf": "/zimapay-dashboard-task/static/media/IRANSans(FaNum).108fac8774fe726cac7e.ttf",
+    "index.html": "/zimapay-dashboard-task/index.html",
+    "main.fa5d6538.css.map": "/zimapay-dashboard-task/static/css/main.fa5d6538.css.map",
+    "main.4dba23b9.js.map": "/zimapay-dashboard-task/static/js/main.4dba23b9.js.map",
+    "429.cdf3536d.chunk.js.map": "/zimapay-dashboard-task/static/js/429.cdf3536d.chunk.js.map",
+    "23.47768f97.chunk.css.map": "/zimapay-dashboard-task/static/css/23.47768f97.chunk.css.map",
+    "23.e81163bc.chunk.js.map": "/zimapay-dashboard-task/static/js/23.e81163bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5d6538.css",
+    "static/js/main.4dba23b9.js"
+  ]
+}
